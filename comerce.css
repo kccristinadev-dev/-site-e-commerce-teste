@@ -374,7 +374,8 @@ main {
 }
 
 #detalhe-produto .alinar {
-    color: var(--cor-fundo);
+    color: var(--cor-texto);
+margin: 5px;
   display: flex;
   gap: 20px;
   margin-bottom: 15px;
